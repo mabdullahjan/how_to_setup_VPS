@@ -33,4 +33,20 @@ Step 7: lets install webuzo
         sudo ./install.sh
 
 Note (it will ask you for password you need to add password and confirm password you will be able to login your webuzo panel using that Credentials also it will take some time to install all applications)
+
+Afer installation 
+----------------------------------------------------------------
+ /$$      /$$ /$$$$$$$$ /$$$$$$$  /$$   /$$ /$$$$$$$$  /$$$$$$ 
+| $$  /$ | $$| $$_____/| $$__  $$| $$  | $$|_____ $$  /$$__  $$
+| $$ /$$$| $$| $$      | $$  \ $$| $$  | $$     /$$/ | $$  \ $$
+| $$/$$ $$ $$| $$$$$   | $$$$$$$ | $$  | $$    /$$/  | $$  | $$
+| $$$$_  $$$$| $$__/   | $$__  $$| $$  | $$   /$$/   | $$  | $$
+| $$$/ \  $$$| $$      | $$  \ $$| $$  | $$  /$$/    | $$  | $$
+| $$/   \  $$| $$$$$$$$| $$$$$$$/|  $$$$$$/ /$$$$$$$$|  $$$$$$/
+|__/     \__/|________/|_______/  \______/ |________/ \______/
+----------------------------------------------------------------
+Congratulations, Webuzo has been successfully installed
+
+You can now configure Softaculous Webuzo at the following URL :
+https://xxx.xxx.xxx.xx:2005/ <== your vps ip here
         
